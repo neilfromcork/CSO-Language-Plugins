@@ -1,8 +1,0 @@
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\bin\Release\EnglishLanguagePlugin.dll
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\bin\Release\EnglishLanguagePlugin.pdb
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\obj\Release\EnglishLanguagePlugin.csproj.AssemblyReference.cache
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\obj\Release\EnglishLanguagePlugin.Properties.Resources.resources
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\obj\Release\EnglishLanguagePlugin.csproj.GenerateResource.cache
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\obj\Release\EnglishLanguagePlugin.csproj.CoreCompileInputs.cache
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\obj\Release\EnglishLanguagePlugin.dll
-C:\Wspace\Plugins\EnglishLanguagePlugin\EnglishLanguagePlugin\obj\Release\EnglishLanguagePlugin.pdb

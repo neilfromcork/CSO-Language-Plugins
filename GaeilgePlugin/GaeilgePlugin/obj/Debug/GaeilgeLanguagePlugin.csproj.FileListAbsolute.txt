@@ -1,0 +1,11 @@
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\GaeilgePlugin.dll
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\GaeilgePlugin.pdb
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\Newtonsoft.Json.dll
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\Newtonsoft.Json.xml
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgeLanguagePlugin.csproj.AssemblyReference.cache
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.Properties.Resources.resources
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgeLanguagePlugin.csproj.GenerateResource.cache
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgeLanguagePlugin.csproj.CoreCompileInputs.cache
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgeLanguagePlugin.csproj.CopyComplete
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.dll
+D:\Git\neilfromcork\CSO-Language-Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.pdb
