@@ -1,1 +1,0 @@
-{"jsonrpc":"2.0","method":"PxStat.Data.Compare_API.ReadAmendment","params":{"RlsCode":"1362","LngIsoCode":"ga"},"id":278220443}
