@@ -1,0 +1,11 @@
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\GaeilgePlugin.dll
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\GaeilgePlugin.pdb
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.csproj.AssemblyReference.cache
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.Properties.Resources.resources
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.csproj.GenerateResource.cache
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.csproj.CoreCompileInputs.cache
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.csproj.CopyComplete
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.dll
+C:\Wspace\Plugins\GaeilgePlugin\GaeilgePlugin\obj\Debug\GaeilgePlugin.pdb
